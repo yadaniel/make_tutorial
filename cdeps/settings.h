@@ -1,0 +1,7 @@
+#ifndef SETTINGS_INCLUDED
+#define SETTINGS_INCLUDED
+
+#define SETTING1    1
+
+#endif /* SETTINGS_INCLUDED */
+
